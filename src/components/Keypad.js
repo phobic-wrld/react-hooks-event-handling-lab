@@ -1,9 +1,10 @@
-// Code Keypad Component Here
+import React from "react"; 
+import Keypad from "./Keypad";
 
-function Keypad (){
+function App() {
     return (
-        <div></div>
-    )
+        <div><keypad /></div>
+    );
 }
 
-export default Keypad;
+export default app;
